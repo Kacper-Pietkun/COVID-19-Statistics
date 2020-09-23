@@ -38,6 +38,7 @@ University project. Program displays statistics about COVID-19 pandemic
 
 ## Usage
  - University project
+ - Checking statistics about COVID-19 pandemic
  
 ## Notes
  - If program doesn't work properly make sure that you have got installed pcregrep (sudo apt-get install pcregrep)
